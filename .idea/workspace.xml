@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eb5d6d3-0d92-4695-bd5e-b5fcadfa582d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cora/cora.cites" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cora/cora.content" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cora/cora.edges" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cora/cora.node_labels" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GCN-Node-Classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GCN-Node-Classification.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +36,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/quyenlinhta/PycharmProjects/GCN_Node_Classification/cora"
   }
 }]]></component>
   <component name="RunManager">
@@ -69,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651608817746</updated>
-      <workItem from="1651608818839" duration="432000" />
+      <workItem from="1651608818839" duration="734000" />
     </task>
     <servers />
   </component>
